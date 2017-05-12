@@ -2,7 +2,7 @@
   display: none;
 }
 .what{
-  background-image: url(/home/dennis/Desktop/projects/pigdice/img/maxresdefault.jpg);
+  background-image: url(../img/maxresdefault.jpg);
   height: 450px;
   color: orange;
 }
